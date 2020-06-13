@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is FEFF-DCA2
-
- Directory of C:\Users\user\Desktop\GitProject
-
-06/13/2020  11:52 AM    <DIR>          .
-06/13/2020  11:52 AM    <DIR>          ..
-06/13/2020  11:52 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  180,683,227,136 bytes free
+Change something
